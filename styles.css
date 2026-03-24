@@ -1,10 +1,53 @@
 body {
     box-sizing: border-box;
     display: block;
-    width: auto;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    background-color: rgb(134, 233, 158);
+    border-style: double;
+    text-align: center;
+    margin: auto;
+    width: 200px;
+    padding: 15px;
+
+}
+
+p {
+    width: 850px;
+    padding: 8px;
+    margin: 0 auto;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.p1 {
+    width: 850px;
+    padding: 8px;
+    margin: auto;
+    margin-top: 40px;
+    text-align: center;
+}
+
+div {
+    background-color: beige;
+    width: 400px;
+    border-style: dotted;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+a {
+    display: block;
+    text-align: center;
+    padding: 10px;
 }
 
 span {
-
-    width: ;
+    display: inline-block;
+    padding: 5px;
+    background-color: rgb(255, 90, 90);
 }
