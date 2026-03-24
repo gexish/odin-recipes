@@ -33,9 +33,9 @@ p {
 
 div {
     background-color: beige;
-    width: auto;
+    width: 380px;
     border-style: dotted;
-    margin: auto;
+    margin: 0 auto;
     margin-top: 30px;
     margin-bottom: 30px;
 }
