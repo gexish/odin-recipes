@@ -16,7 +16,7 @@ h1 {
 }
 
 p {
-    width: 850px;
+    width: auto;
     padding: 8px;
     margin: 0 auto;
     margin-top: 15px;
@@ -24,7 +24,7 @@ p {
 }
 
 .p1 {
-    width: 850px;
+    width: auto;
     padding: 8px;
     margin: auto;
     margin-top: 40px;
@@ -33,7 +33,7 @@ p {
 
 div {
     background-color: beige;
-    width: 400px;
+    width: auto;
     border-style: dotted;
     margin: auto;
     margin-top: 30px;
